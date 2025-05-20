@@ -1,0 +1,1 @@
+This code accompanies the manuscript: Integration of head and body orientations in the macaque superior temporal sulcus is stronger for upright bodies, published in eLife. DOI: https://doi.org/10.7554/eLife.105714.2
